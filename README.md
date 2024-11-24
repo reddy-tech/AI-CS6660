@@ -3,7 +3,7 @@
 
 # X-s-O-s
 
-The submitted file is for the Term Project for the course Introduction to Artificial Intelligence Fall 2024.The group members for this project are Yashwanth and My World.
+The submitted file is for the Term Project for the course Introduction to Artificial Intelligence Fall 2024.The group members for this project are Yashwanth and Srenitha.
 
 A X-s-O-s game is developed using different artificial intelligence agents. We have implemented the game using the following four agents with their variations: Expectimax, Minimax, Alpha- Beta, Q learning and Approximate Q learning algorithms.
 
